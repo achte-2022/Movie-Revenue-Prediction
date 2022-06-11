@@ -14,4 +14,6 @@ jupyter notebook
 ```
 
 Plot:
+
+
 ![Graph](images/graph.png)
